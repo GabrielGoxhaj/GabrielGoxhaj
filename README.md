@@ -30,7 +30,9 @@ Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando
 </p>
 
 ---
-
+<p align="left">
+  <img src="./dino.gif" alt="Dinosaur GIF" width="250">
+</p>
 ## Contattami
 - Email: gabrielgoxhaj2013@hotmail.it
 - [LinkedIn](https://www.linkedin.com/in/gabrielgoxhaj/)
