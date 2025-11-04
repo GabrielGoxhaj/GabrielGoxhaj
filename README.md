@@ -38,9 +38,11 @@ Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando
 ---
 
 <p align="center">
-  <!-- Dark theme -->
-  <img src="./dino-dark.gif#gh-dark-mode-only" alt="Dino dark">
-
-  <!-- Light theme -->
-  <img src="./dino.gif#gh-light-mode-only" alt="Dino light">
+  <picture>
+    <!-- Dark theme -->
+    <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
+    <!-- Light theme -->
+    <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
+    <img src="./dino.gif" alt="Dino running game" width="400" />
+  </picture>
 </p>
