@@ -4,11 +4,6 @@ Sono uno sviluppatore web Front-End appassionato di sviluppo di interfacce grafi
 Ho frequentato il corso di **Frontend Web Developer** presso l’ITS Alto Adriatico (2023–2025).  
 Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando all’**Academy Full Stack .NET Developer** per ampliare le mie competenze e apprendere nuove tecnologie.
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGoxhaj)](https://git.io/streak-stats)
-
----
 ## Tecnologie principali
 
 <p align="left">
