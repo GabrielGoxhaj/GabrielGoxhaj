@@ -38,5 +38,9 @@ Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando
 ---
 
 <p align="center">
-  <img src="./dino_dark.gif" alt="Dinosaur GIF">
+  <!-- Dark theme -->
+  <img src="./dino-dark.gif#gh-dark-mode-only" alt="Dino dark">
+
+  <!-- Light theme -->
+  <img src="./dino.gif#gh-light-mode-only" alt="Dino light">
 </p>
