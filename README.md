@@ -1,6 +1,6 @@
 # Ciao, sono Gabriel Goxhaj 👋
 
-Sono uno sviluppatore web Front-End appassionato di sviluppo di interfacce grafiche, IT e di tutto ciò che riguarda il mondo informatico.  
+Sono uno sviluppatore web Front-End appassionato di sviluppo di interfacce grafiche, IT, videogiochi e di tutto ciò che riguarda il mondo informatico.  
 Ho frequentato il corso di **Frontend Web Developer** presso l’ITS Alto Adriatico (2023–2025).  
 Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando all’**Academy Full Stack .NET Developer** per ampliare le mie competenze e apprendere nuove tecnologie.
 
