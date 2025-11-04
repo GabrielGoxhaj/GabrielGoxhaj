@@ -39,7 +39,7 @@ Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando
 
 <p align="center">
   <picture>
-    <source srcset="dino-dark.gif" media="(prefers-color-scheme: dark)" />
+    <source srcset="dino_dark.gif" media="(prefers-color-scheme: dark)" />
     <source srcset="dino.gif" media="(prefers-color-scheme: light)" />
     <img src="dino.gif" alt="Dino running">
   </picture>
