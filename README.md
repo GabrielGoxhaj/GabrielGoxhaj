@@ -5,9 +5,10 @@ Ho frequentato il corso di **Frontend Web Developer** presso l’ITS Alto Adriat
 Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando all’**Academy Full Stack .NET Developer** per ampliare le mie competenze e apprendere nuove tecnologie.
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGoxhaj)](https://git.io/streak-stats)
----
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGoxhaj&theme=dark&count_private=true)](https://git.io/streak-stats)
+
+---
 ## Tecnologie principali
 
 <p align="left">
