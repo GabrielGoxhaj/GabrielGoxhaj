@@ -6,7 +6,7 @@ Attualmente sono presso la sede di **Betacom** di Treviso, dove sto partecipando
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGoxhaj&theme=dark&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGoxhaj)](https://git.io/streak-stats)
 
 ---
 ## Tecnologie principali
